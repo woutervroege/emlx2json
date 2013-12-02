@@ -1,0 +1,13 @@
+{
+  "name": "emlx2json",
+  "version": “0.0.1”,
+  "description": "JSON parser for Apple Mail messages (.emlx)",
+  "dependencies": {
+    "underscore": "1.5.x",
+    "phpjs": "0.0.1"
+  },
+  "author": {
+    "name": "Wouter Vroege",
+    "url": "woutervroege.nl"
+  }
+}
