@@ -1,6 +1,6 @@
 {
   "name": "emlx2json",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JSON parser for Apple Mail (Mail.app) messages (.emlx)",
   "dependencies": {
     "underscore": "1.5.x",
@@ -15,5 +15,5 @@
     "url": "woutervroege.nl"
   },
   "main": "lib/emlx2json.js",
-  "_id": "emlx2json@0.0.2"
+  "_id": "emlx2json@0.0.3"
 }
