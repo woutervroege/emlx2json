@@ -1,0 +1,681 @@
+Return-Path: <bounces@insideicloud.icloud.com>
+Received: from mx1.greenhost.nl (mx1.lan [10.10.12.44])
+	 by mailstore6.lan (Cyrus v2.2.13-Debian-2.2.13-19+squeeze3) with LMTPA;
+	 Wed, 07 Aug 2013 20:56:50 +0200
+X-Sieve: CMU Sieve 2.2
+Received: from mdn-txn-msbadger0604.apple.com ([17.171.37.74])
+	by mx1.greenhost.nl with esmtp (Exim 4.72)
+	(envelope-from <bounces@insideicloud.icloud.com>)
+	id 1V78vB-0004dj-1z
+	for wouter@woutervroege.nl; Wed, 07 Aug 2013 20:57:23 +0200
+DKIM-Signature: v=1; a=rsa-sha1; d=insideicloud.icloud.com; s=insideicloud2048; c=relaxed/relaxed;
+	q=dns/txt; i=@insideicloud.icloud.com; t=1375901839;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=ZiPn+3KiICLh59zczHaZuKb9tA4=;
+	b=TsYLXVEI+I4Nhbahu8YH3TKawG3ky12Ci77QvXqXF+qvciOVdaF/88gF3cKpQcjp
+	LBLbcd3G81tYpXXuouFzVrqknP8Fg41Ld7aHqiOy3WOxnt1ii7zvmp6FZg2J9bZG
+	f/8Ed/FTafybMd54+M10xRgbfxzjv2F8r3B+GUnGnnodPyFMCutFQOX7yedahaaI
+	1UAvbhO3I6xdnoVzjBH3jj58waZIo6i3lWbG/t/OvgejCzDIFP54htsEosM8WS3K
+	1Bz2Jojh3ZE/C4IAUo7prJdRrmjlGGXcs7nOiyd33E+lJSGG8s4sWh8EQjkLP7b6
+	ZPrCeOcb+1v6bGmQcjUA+g==;
+Date: Wed, 7 Aug 2013 18:57:19 +0000 (GMT)
+From: Jos Vroege <noreply@insideicloud.icloud.com>
+Reply-To: j.vroege@me.com
+To: wouter@woutervroege.nl
+Message-ID: <484951122.6056131375901839928.JavaMail.email.apple.com>
+Subject: =?UTF-8?Q?Join_Jos_Vroege=E2=80=99s_=E2=80=9CGo?=
+ =?UTF-8?Q?rinchem=E2=80=9D_Photo_Stream=3F?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_302779_1298340649.1375901839928"
+X-EmailType-Id: 753199
+X-Sent-To: wouter@woutervroege.nl,2,k%2BmjWPCFEH1m5ry2zndhAhXae9k0eBlmn47vYrcBs6jLj9ApD5oWGQDvPBbcJRd5d%2Bch910I6w%2B0XeH5j4zGnhAZyGzIBWfxB74ua7BLvASN5ebH5qUlO0LFbEeL9KuCSxM0ds5ZqgVjrdgTcAFV1Uw86O2IJYuNtBKaOKwW1hWM%2BCWIDsSrAR0RnAvDXuvBHJBBXw6dwTYhO6%2FrTkumY2C9B0o8hmdt%2FCQOsuK9M%2BX9lsVH1vq%2FH6co1nXRXvW%2BbJrkV5r5YudkZfw8S5qe9k4QoHLPDGunLVIHGk3%2Fnh%2F10gHbORnI2U3CUbsIfcV%2F32xoGvD3cDTPbSaIKzLDs%2FxPdRAUU7NrJkJ6kjZjQpM%3D
+X-Request-UUID: d26fc7cc-516c-4e20-b151-c3bf34c8d0d7
+X-Business-Group: iCloud
+X-Attach-Flag: N
+X-TXN_ID: B9C55310-4B40-465D-AF67-2707F1664E2F
+X-DKIM_SIGN_REQUIRED: YES
+X-Spam-Level: /
+X-Spam-Status: No, score=0.1 required=5.0 tests=BAYES_60,HTML_IMAGE_RATIO_02,HTML_MESSAGE,INVALID_MSGID,RCVD_IN_DNSWL_MED,SPF_PASS,T_DKIM_INVALID autolearn=disabled version=3.3.1
+X-Spam-Score: 0.1
+X-Virus-Scanned: by Greenhost Virus Scanner
+X-Scan-Signature: 7eb61d8b8b6a526ccfe207e94f342da5
+
+------=_Part_302779_1298340649.1375901839928
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+Join Jos Vroege=E2=80=99s =E2=80=9CGorinchem=E2=80=9D Photo Stream?
+
+People using this shared Photo Stream will see your Apple ID if you join.
+
+Join this Photo Stream - https://www.icloud.com/photostream/join?invitation=
+_id=3Dv3;1;ED2D9D73-D49C-4B59-A3EB-308C69C68954;v2l5ACAEQARoQ_GDmjQ1FRxPXzV=
+HexRUoiQ;73959757-B6A7-47B9-BD17-6EE93D2AD89F;Sm9zIFZyb2VnZQ;R29yaW5jaGVt
+
+To join a Shared Photo Stream you must have an Apple ID and iCloud. Learn m=
+ore - http://www.apple.com/icloud/features/photo-stream.html
+
+
+---
+
+iCloud is a service provided by Apple
+Support - http://www.apple.com/support/icloud/
+Terms and Conditions - http://www.apple.com/legal/icloud/ww/
+Privacy Policy - http://www.apple.com/privacy/
+Don't send me Photo Stream email - https://p01-sharedstreams.icloud.com/v2l=
+5ACAEQARoQ_GDmjQ1FRxPXzVHexRUoiQ/sharedstreams/optout?token=3DZT13b3V0ZXJAd=
+291dGVydnJvZWdlLm5sJmw9ZW4tdXMmdj0x
+Copyright 2013 Apple Inc. 1 Infinite Loop, Cupertino CA 95014. All Rights R=
+eserved.
+
+------=_Part_302779_1298340649.1375901839928
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+<html>
+         =20
+          <head>
+           =20
+            <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+              <base target=3D"CalendarInvite"/>
+             =20
+             =20
+              <style type=3D"text/css">
+               =20
+                a {
+                text-decoration: none;
+                }
+                a:link {
+                color: #A1A3AA;
+                text-decoration: none;
+                }
+                a:visited {
+                text-decoration: none;
+                }
+                a:active {
+                text-decoration: underline;
+                }
+                a:hover {
+                text-decoration: underline;
+                }
+
+                         =20
+          @media only screen and (max-device-width: 320px) and (min-device-=
+height: 481px) {
+            body[yahoo]{
+              overflow: hidden;
+              width: 320px !important;
+              text-align: center !important;
+              margin: 0;
+            }
+
+        body[yahoo] > div > table {
+          -webkit-transform: scale(0.945);
+              -webkit-transform-origin: center top;
+            }
+
+            body[yahoo] > div > table:nth-child(1){
+              margin-top: 10px;
+            }
+
+            body[yahoo] > div > table:nth-child(2){
+              margin-top: 55px;
+            }
+          }
+
+                =20
+                @media only screen and (min-device-width: 768px) {
+
+                body[yahoo] .buttonMiddle {
+                background-image: url('https://statici.icloud.com/emailimag=
+es/photostreams/photo_btn_middle.png');
+                background-size:1px 50px;
+                background-color: #2296cf !important;
+                }
+
+               =20
+                body[yahoo] .active {
+                pointer-events: none;
+                cursor: default;
+                }
+                body[yahoo] .btn-padding {
+                padding-bottom: 3px !important;
+                }
+                }
+
+                =20
+                @media only screen and (-webkit-min-device-pixel-ratio: 2) =
+{
+
+                body[yahoo] .box-top img {
+                visibility: hidden !important;
+                }
+                body[yahoo] .box-top {
+                background-image: url(https://statici.icloud.com/emailimage=
+s/common/box_top@2x.png);
+                background-size: 539px 16px;
+                background-repeat: no-repeat !important;
+                background-position: 3px center !important;
+                }
+                body[yahoo] .photoIcon img {
+                visibility: hidden !important;
+                }
+                body[yahoo] .photoIcon {
+                background-image: url(https://statici.icloud.com/emailimage=
+s/photostreams/photo_icon@2x.png);
+                background-size: 120px 120px;
+                background-repeat: no-repeat !important;
+                background-position: center!important;
+                }
+                body[yahoo] .box-bottom img {
+                visibility: hidden !important;
+                }
+                body[yahoo] .box-bottom {
+                background-image: url(https://statici.icloud.com/emailimage=
+s/common/box_bottom@2x.png);
+                background-size: 539px 16px;
+                background-repeat: no-repeat !important;
+                background-position: 3px center !important;
+
+                }
+                body[yahoo] .buttonLeft {
+                background-image: url('https://statici.icloud.com/emailimag=
+es/photostreams/photo_btn_left@2x.png');
+                background-size:12px 50px;
+
+                }
+                body[yahoo] .buttonMiddle {
+                background-image: url('https://statici.icloud.com/emailimag=
+es/photostreams/photo_btn_middle@2x.png');
+                background-size:1px 50px;
+                background-color: #2296cf !important;
+
+                }
+                body[yahoo] .buttonRight {
+                background-image: url('https://statici.icloud.com/emailimag=
+es/photostreams/photo_btn_right@2x.png');
+                background-size:12px 50px;
+                }
+
+                body[yahoo] .arrow-img img {
+                visibility: hidden !important;
+                }
+
+                body[yahoo] .arrow-img {
+                background-image: url(https://statici.icloud.com/emailimage=
+s/common/small_link_arrow@2x.png);
+                background-size: 4px 7px;
+                background-repeat: no-repeat !important;
+                background-position: center!important;
+                }
+
+                body[yahoo] .appleLogo img {
+                visibility: hidden !important;
+                }
+                body[yahoo] .appleLogo {
+                background-image: url(https://statici.icloud.com/emailimage=
+s/common/apple_footer_logo@2x.png);
+                background-size: 13px 17px;
+                background-repeat: no-repeat !important;
+                background-position: center!important;
+                }
+
+                }
+
+                =20
+                @media only screen and (max-device-width: 320px) and (-webk=
+it-min-device-pixel-ratio: 2){
+
+                           =20
+              body[yahoo] .active {
+                pointer-events: none;
+                cursor: default;
+              }
+
+              body[yahoo] .content-box{
+              width:320px !important;
+              height:10px !important;
+              }
+
+              body[yahoo] .table-content {
+              width: 312px !important;
+              padding: 0px 2px 0px 2px !important;
+              }
+             =20
+              body[yahoo] .innerTd{
+              width: 1px !important;
+              background-color: #eaeaea !important;
+              }
+             =20
+              body[yahoo] .outerTd{
+              width: 1px !important;
+              background-color: #d3d3d3 !important;
+              }
+             =20
+              body[yahoo] .div-width {
+              width:320px !important;
+              padding: 0px !important;
+              }
+             =20
+             =20
+              body[yahoo] .content-holder{
+              padding-right:5px !important;
+              padding-left:5px !important;
+              }
+
+              body[yahoo] .content-block{
+              width: 296px !important;
+              }
+             =20
+              body[yahoo] .box-top {
+              background-image: url(https://statici.icloud.com/emailimages/=
+common/box_top@2x.png);
+              background-size: 318px 10px;
+              background-repeat: no-repeat !important;
+              background-position:center!important;
+              padding-top: 0px !important;
+              }
+
+              body[yahoo] .box-bottom {
+              background-image: url(https://statici.icloud.com/emailimages/=
+common/box_bottom@2x.png);
+              background-size: 318px 10px;
+              background-repeat: no-repeat !important;
+              background-position:center!important;
+              padding-bottom: 0px !important;
+              }                =20
+             =20
+              body[yahoo] .border-width-left {
+              width:1px !important;
+              }
+              body[yahoo] .border-width-right {
+              width:1px !important;
+              }
+             =20
+              body[yahoo] .footer-service {
+              -webkit-text-size-adjust: 100%;
+              width:290px !important;
+              margin-right:10px !important;
+              margin-left:10px !important;
+              display:block !important;
+              font-size: 11px !important;
+              color: #B0B3B9 !important;
+              text-shadow: #f4f4f4 0px 1px 0px !important;
+              }
+              body[yahoo] .footer-copyright {
+              -webkit-text-size-adjust: 100%;
+              width:290px !important;
+              margin-right:10px !important;
+              margin-left:10px !important;
+              padding-top:10px !important;
+              display:block !important;
+              font-size: 11px !important;
+              color: #B0B3B9 !important;
+              text-shadow: #f4f4f4 0px 1px 0px !important;
+              }
+
+              body[yahoo] .footer-copyright-hide {
+              display:none !important;
+              }
+             =20
+              body[yahoo] .content-footer{
+              display:none !important;
+              width:0px !important;
+              font-size: 0px !important;
+              }
+              body[yahoo] .footer-image {
+              width:312px !important;
+              margin-top: 10px !important;
+              }
+              body[yahoo] .footer-content {
+              width:312px !important;
+              }
+             =20
+              body[yahoo] .iPhoneTitle{
+              padding-left: 10px !important;
+              padding-right: 10px !important;
+              padding-top: 5px !important;
+              padding-bottom: 16px !important;
+              }
+              body[yahoo] .iPhoneBottom{
+              padding-top: 20px !important;
+              }
+
+              body[yahoo] .footerPadding {
+                padding-top: 16px !important;
+              }
+              body[yahoo] .iPhoneNote{
+              padding-left: 10px !important;
+              padding-right: 10px !important;
+              }
+              body[yahoo] .btn-padding {
+              padding-bottom: 3px !important;
+              }
+=09            body[yahoo] .button-text {
+=09              font-size:17px !important;
+=09            }             =20
+
+              }
+
+              </style>
+            </head>
+           =20
+           =20
+            <body yahoo=3D"fix" style=3D"background-color: #ececec" align=
+=3D"center">
+              <div width=3D"100%" align=3D"center" style=3D"background-colo=
+r: #ececec" class=3D"div-width">
+                <table class=3D"div-width" bgcolor=3D"#ececec" border=3D"0"=
+ left=3D"0" top=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-widt=
+h:546px;">
+                  <tr>
+                    <td class=3D"div-width" style=3D"padding-top: 26px; pad=
+ding-bottom: 26px;">
+                      <table class=3D"div-width" border=3D"0" left=3D"0" to=
+p=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; m=
+ax-width:546px;">
+                        <tr>
+                          <td class=3D"content-box box-top" colspan=3D"5" w=
+idth=3D"546" style=3D"vertical-align:top; height:16px; max-width:546px;">
+                           =20
+                            <img class=3D"content-box" src=3D"https://stati=
+ci.icloud.com/emailimages/common/box_top.png" width=3D"100%" height=3D"100%=
+" alt=3D"" style=3D"display:block; max-width:545px;"/>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td width=3D"3" class=3D"border-width-left"></td>
+                          <td width=3D"1" bgcolor=3D"#c9c9c9" class=3D"oute=
+rTd"></td>
+                          <td width=3D"529" style=3D"padding: 0px 4px 0 4px=
+;" bgcolor=3D"#ffffff" class=3D"table-content">
+                          <table class=3D"table-content" border=3D"0" bgcol=
+or=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" width=3D"529" style=3D"b=
+order-spacing: 0px; border-collapse: collapse; -webkit-text-size-adjust: 10=
+0%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+                            <td width=3D"1" bgcolor=3D"#e5e5e5" class=3D"in=
+nerTd"></td>
+                            <td bgcolor=3D"#ffffff" colspan=3D"3" class=3D"=
+content-holder">
+                              <table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" style=3D"border-spacing: 0px; border-collapse: co=
+llapse;" class=3D"content-block">
+                                <tr>
+                             =20
+                              <td class=3D"photoIcon" colspan=3D"3" align=
+=3D"center" style=3D"padding-top: 17px; padding-bottom: 26px;">
+                              <img src=3D"https://statici.icloud.com/emaili=
+mages/photostreams/photo_icon.png" width=3D"120" height=3D"120" border=3D"0=
+" style=3D"position: relative; display: block;" alt=3D""/>
+                            </td>
+                          </tr>
+                          <tr>
+                           =20
+                            <td class=3D"iPhoneTitle" colspan=3D"3" align=
+=3D"center" style=3D"font-family: Helvetica, Arial, Sans-Serif; font-size: =
+23px; font-weight: bold; color: #424242;  line-height: 28px; padding-bottom=
+: 24px; padding-left: 31px; padding-right: 31px;">
+                            Join Jos Vroege=E2=80=99s =E2=80=9CGorinchem=E2=
+=80=9D Photo Stream?
+                            </td>
+                          </tr>
+                          <tr>
+                           =20
+                            <td class=3D"iPhoneNote" colspan=3D"3" align=3D=
+"center" style=3D"font-family: Helvetica, Arial, Sans-Serif; font-size: 13p=
+x; font-weight: normal; color: #2b2b2b;  line-height: 16px; padding-bottom:=
+ 24px; padding-left: 10px; padding-right: 10px;">
+                              People using this shared Photo Stream will se=
+e your Apple ID if you join.
+                              </td>
+                            </tr>
+
+                          </table>
+                        </td>
+                        <td width=3D"1" bgcolor=3D"#e5e5e5" class=3D"innerT=
+d"></td>
+                      </tr>
+
+                      <tr>
+                        <td width=3D"1" bgcolor=3D"#e5e5e5" class=3D"innerT=
+d"></td>
+                        <td bgcolor=3D"#ffffff" colspan=3D"3" align=3D"cent=
+er">
+                          <table align=3D"center" style=3D"color: #efefef;"=
+>
+                            <tr>
+                              <td align=3D"center" style=3D"padding-bottom:=
+24px; font-family: Helvetica, Arial, Sans-Serif; font-size: 17px;color: #42=
+4242; text-shadow: #FFFFFF 0px 1px 0px;">
+                               =20
+                                <a style=3D"color: #ffffff; outline: none; =
+text-decoration: none;" href=3D"https://www.icloud.com/photostream/join?inv=
+itation_id=3Dv3;1;ED2D9D73-D49C-4B59-A3EB-308C69C68954;v2l5ACAEQARoQ_GDmjQ1=
+FRxPXzVHexRUoiQ;73959757-B6A7-47B9-BD17-6EE93D2AD89F;Sm9zIFZyb2VnZQ;R29yaW5=
+jaGVt">
+                                <table height=3D"50" bgcolor=3D"#ffffff" ce=
+llpadding=3D"0" cellspacing=3D"0">
+                                  <tr>
+                                    <td class=3D"buttonLeft" height=3D"50" =
+width=3D"12" background=3D"https://statici.icloud.com/emailimages/photostre=
+ams/photo_btn_left.png" style =3D"background-repeat: no-repeat;">
+                                    </td>
+                                    <td bgcolor=3D"#2296cf" class=3D"button=
+-text buttonMiddle" height=3D"50" background=3D"https://statici.icloud.com/=
+emailimages/photostreams/photo_btn_middle.png" style =3D" background-repeat=
+: repeat-x; overflow: hidden; padding-left:6px; padding-right:6px;">
+                                      =20
+                                      <div class=3D"button-text btn-padding=
+" style=3D"letter-spacing:1px; color: #FFFFFF; font-family: Helvetica, Aria=
+l, Sans-Serif; font-size: 17px; font-weight: bold; white-space: nowrap; tex=
+t-shadow: #0c547d 0px -1px; padding-bottom: 0px; padding-left: 0px;" align=
+=3D"center">
+                                       =20
+                                        <a class=3D"active" style=3D"color:=
+ #ffffff; outline: none; text-decoration: none;" href=3D"https://www.icloud=
+.com/photostream/join?invitation_id=3Dv3;1;ED2D9D73-D49C-4B59-A3EB-308C69C6=
+8954;v2l5ACAEQARoQ_GDmjQ1FRxPXzVHexRUoiQ;73959757-B6A7-47B9-BD17-6EE93D2AD8=
+9F;Sm9zIFZyb2VnZQ;R29yaW5jaGVt">
+                                        Join this Photo Stream
+                                      </a>
+                                    </div>
+                                  </td>
+                                  <td class=3D"buttonRight" height=3D"50" w=
+idth=3D"12" background=3D"https://statici.icloud.com/emailimages/photostrea=
+ms/photo_btn_right.png" style =3D"background-repeat: no-repeat;">
+                                  </td>
+                                </tr>
+                              </table>
+                            </a>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <td width=3D"1" bgcolor=3D"#e5e5e5" class=3D"innerTd"><=
+/td>
+                  </tr>
+
+                  <tr>
+                    <td width=3D"1" bgcolor=3D"#e5e5e5" class=3D"innerTd"><=
+/td>
+                   =20
+                    <td colspan=3D"3" height=3D"1" bgcolor=3D"#e2e2e2"></td=
+>
+                    <td width=3D"1" bgcolor=3D"#e5e5e5" class=3D"innerTd"><=
+/td>
+                  </tr>
+
+                  <tr>
+                    <td width=3D"1" bgcolor=3D"#e5e5e5" class=3D"innerTd"><=
+/td>
+                   =20
+                   =20
+                          <td colspan=3D"3" align=3D"center" style=3D"font-=
+family: Helvetica, Arial, Sans-Serif; font-size: 13px; font-weight: normal;=
+ color: #999ca5;  line-height: 17px; padding-top: 20px; padding-bottom: 14p=
+x; padding-left: 10px; padding-right: 10px;">
+                          To join a Shared Photo Stream you must have an Ap=
+ple ID and iCloud. <a style=3D"color: #0587c8; text-decoration: none;" href=
+=3D"http://www.apple.com/icloud/features/photo-stream.html">Learn=C2=A0more=
+=C2=A0<span class=3D "arrow-img"><img src=3D"https://statici.icloud.com/ema=
+ilimages/common/small_link_arrow.png" width=3D"4" height=3D"7" border=3D"0"=
+ style=3D"position: relative;" alt=3D""/></span></a>
+                          </td>
+                       =20
+                      <td width=3D"1" bgcolor=3D"#e5e5e5" class=3D"innerTd"=
+></td>
+                    </tr>
+                  </table>
+                </td>
+                <td width=3D"1" bgcolor=3D"#c9c9c9" class=3D"outerTd"></td>
+                <td width=3D"4" class=3D"border-width-right"></td>
+              </tr>
+              <tr>
+                <td class=3D"content-box box-bottom" colspan=3D"5" style=3D=
+"vertical-align:top; height:16px; max-width:546px;">
+                 =20
+                  <img class=3D"content-box" src=3D"https://statici.icloud.=
+com/emailimages/common/box_bottom.png" width=3D"100%" height=3D"100%" alt=
+=3D"" style=3D"display:block; max-width:545px;"/>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        </table>
+       =20
+        <table class=3D"footer-content footerPadding" border=3D"0" width=3D=
+"600" left=3D"0" top=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-spacing: 0px; -webkit-text-size-adjust: 100%;">
+            <tr class=3D"content-footer">
+              <td align=3D"center" style=3D"display:block; font-family: Hel=
+vetica, Arial, Sans-Serif; font-size: 11px;font-weight: normal; color: #B0B=
+3B9; text-shadow: #f4f4f4 0px 1px 0px; line-height: 14px; padding-bottom: 0=
+px;">
+              iCloud is a service provided by Apple
+              &#160;&#8226;&#160;
+              <a style=3D"font-family: Helvetica; font-size: 11px; color: #=
+a1a3aa; line-height: 14px; text-shadow: 0px 1px #FFFFFF; font-weight: bold;=
+ text-decoration: none;" href=3D"http://www.apple.com/support/icloud/">
+                Support
+                </a>
+                &#160;&#8226;&#160;
+                <a style=3D"font-family: Helvetica; font-size: 11px; color:=
+ #a1a3aa; line-height: 14px; text-shadow: #f4f4f4 0px 1px 0px; font-weight:=
+ bold; text-decoration: none;" href=3D"http://www.apple.com/legal/icloud/ww=
+/">
+                Terms and Conditions
+                </a>
+              </td>        =20
+          </tr>
+          <tr align=3D"center" style=3D"display:block; font-family: Helveti=
+ca, Arial, Sans-Serif; font-size: 11px;font-weight: normal; color: #B0B3B9;=
+ text-shadow: #f4f4f4 0px 1px 0px; line-height: 14px;" class=3D"content-foo=
+ter">
+          <td style=3D"padding-bottom: 0px;">
+              <a style=3D"font-family: Helvetica; font-size: 11px; color: #=
+a1a3aa; line-height: 14px; text-shadow: #f4f4f4 0px 1px 0px; font-weight: b=
+old; text-decoration: none;" href=3D"http://www.apple.com/privacy/">
+              Privacy Policy
+              </a>&#160;&#8226;&#160;
+              <a style=3D"font-family: Helvetica; font-size: 11px; color: #=
+a1a3aa; line-height: 14px; text-shadow: #f4f4f4 0px 1px 0px; font-weight: b=
+old; text-decoration: none;" href=3D"https://p01-sharedstreams.icloud.com/v=
+2l5ACAEQARoQ_GDmjQ1FRxPXzVHexRUoiQ/sharedstreams/optout?token=3DZT13b3V0ZXJ=
+Ad291dGVydnJvZWdlLm5sJmw9ZW4tdXMmdj0x">
+              Don't send me Photo Stream email
+              </a>
+            </td>
+          </tr>
+         =20
+          <tr class=3D"footer-service" width=3D"0" align=3D"center" style=
+=3D"display:none;font-size:0px; font-family: Helvetica; font-weight: normal=
+; color: #a1a3aa; text-shadow: #f4f4f4 0px 1px 0px;">
+            <td style=3D"padding-bottom: 0px;">
+             =20
+              iCloud is a service provided by Apple
+             =20
+              <br/>
+              <a style=3D"font-family: Helvetica, Arial, Sans-Serif; color:=
+ #a1a3aa; font-weight: bold; text-decoration: none;" href=3D"http://www.app=
+le.com/support/icloud/">
+      =09=09=09=09=09Support
+      =09=09=09=09</a>
+      =09=09=09=09&#8226;
+              <a style=3D"font-family: Helvetica; color: #a1a3aa; font-weig=
+ht: bold; text-decoration: none;" href=3D"http://www.apple.com/legal/icloud=
+/ww/">
+              Terms and Conditions
+              </a>
+              &#8226;
+              <a style=3D"font-family: Helvetica; color: #a1a3aa; font-weig=
+ht: bold; text-decoration: none;" href=3D"http://www.apple.com/privacy/">
+              Privacy Policy
+              </a>
+            </td>
+            <tr class=3D"footer-service" width=3D"0" align=3D"center" style=
+=3D"display:none;font-size:0px; font-family: Helvetica; font-weight: normal=
+; color: #a1a3aa; text-shadow: #f4f4f4 0px 1px 0px;">
+            <td style=3D"padding-bottom: 0px;">
+              <a style=3D"font-family: Helvetica; font-size: 11px; color: #=
+a1a3aa; line-height: 14px; text-shadow: #f4f4f4 0px 1px 0px; font-weight: b=
+old; text-decoration: none;" href=3D"https://p01-sharedstreams.icloud.com/v=
+2l5ACAEQARoQ_GDmjQ1FRxPXzVHexRUoiQ/sharedstreams/optout?token=3DZT13b3V0ZXJ=
+Ad291dGVydnJvZWdlLm5sJmw9ZW4tdXMmdj0x">
+              Don't send me Photo Stream email
+              </a>
+              </td>
+              </tr>
+          </tr>
+          =20
+          <tr align=3D"center" style=3D"display:block; font-family: Helveti=
+ca; font-size: 11px;font-weight: normal;color: #a1a3aa; text-shadow: #f4f4f=
+4 0px 1px 0px;" class=3D"footer-copyright-hide">
+            <td style=3D"padding-bottom:0px;">
+             =20
+              Copyright =C2=A9 2013 Apple Inc. &#8226; 1 Infinite Loop, Cup=
+ertino, CA 95014 &#8226; All Rights Reserved.
+             =20
+            </td>
+          </tr>
+          <tr align=3D"center" style=3D"display:none; font-family: Helvetic=
+a; font-weight: normal;color: #a1a3aa; text-shadow: #f4f4f4 0px 1px 0px;fon=
+t-size:0px;" class=3D"footer-copyright">
+            <td style=3D"padding-bottom:10px;">
+             =20
+             =20
+              Copyright =C2=A9 2013 Apple Inc <br> 1 Infinite Loop, Cuperti=
+no, CA 95014 <br> All Rights Reserved.
+             =20
+            </td>
+          </tr>
+        </table>
+        <table class=3D"footer-image" border=3D"0" left=3D"0" top=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px;">
+          <tr>
+            <td class=3D"appleLogo" align=3D"center" style=3D" padding-top:=
+ 17px; padding-bottom:45px;">
+              =20
+              <img src=3D"https://statici.icloud.com/emailimages/common/app=
+le_footer_logo.png" width=3D"13" height=3D"17" border=3D"0" style=3D"positi=
+on: relative; display: block;" alt=3D""/>
+            </td>
+          </tr>
+          <tr><td></td></tr>
+        </table>
+        </div>
+      </body>
+    <img src=3D'http://outsideapple.apple.com/img/APPLE_EMAIL_LINK/spacer4.=
+gif?v=3D2&a=3Dk%2BmjWPCFEH1m5ry2zndhAhXae9k0eBlmn47vYrcBs6jLj9ApD5oWGQDvPBb=
+cJRd5d%2Bch910I6w%2B0XeH5j4zGnhAZyGzIBWfxB74ua7BLvASN5ebH5qUlO0LFbEeL9KuCSx=
+M0ds5ZqgVjrdgTcAFV1Uw86O2IJYuNtBKaOKwW1hWM%2BCWIDsSrAR0RnAvDXuvBHJBBXw6dwTY=
+hO6%2FrTkumY2C9B0o8hmdt%2FCQOsuK9M%2BX9lsVH1vq%2FH6co1nXRXvW%2BbJrkV5r5Yudk=
+Zfw8S5qe9k4QoHLPDGunLVIHGk3%2Fnh%2F10gHbORnI2U3CUbsIfcV%2F32xoGvD3cDTPbSaIK=
+zLDs%2FxPdRAUU7NrJkJ6kjZjQpM%3D'/>
+</html>
+------=_Part_302779_1298340649.1375901839928--
+
